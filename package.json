@@ -1,0 +1,19 @@
+{
+  "name": "guild-tag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yuvayna",
+  "license": "ISC",
+  "description": "Alpha Bot for check Guild Tag on Discord",
+  "dependencies": {
+    "@discordjs/builders": "^1.11.2",
+    "@discordjs/rest": "^2.5.0",
+    "discord-api-types": "^0.38.8",
+    "discord.js": "^14.19.3",
+    "discord.js-embed-pagination": "^1.0.2"
+  }
+}
