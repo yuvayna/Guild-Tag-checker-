@@ -1,4 +1,4 @@
-# 🤖 GuildTag Bot Checker
+# 🤖 GuildTag Bot Checker (This project no longer works in its current state ❌)
 
 
 
